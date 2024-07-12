@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Sony Vegas Pro",
+      "description": "Sony Vegas Pro, now simply known as Vegas Pro, is a professional video editing software developed by MAGIX, which acquired it from Sony Creative Software."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Adobe Premier Pro",
+      "description": "Adobe Premiere Pro is a leading video editing software used by professionals and enthusiasts worldwide. Known for its comprehensive features and integration with other Adobe Creative Cloud applications, Premiere Pro is a powerful tool for creating high-quality videos."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "CapCut",
+      "description": "CapCut is a popular video editing app developed by ByteDance, the same company behind TikTok. It's known for its user-friendly interface and powerful editing tools, making it a favorite among content creators, especially for social media platforms."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Power Director",
+      "description": "PowerDirector is a feature-rich video editing software developed by CyberLink. It's widely used by both beginners and professionals due to its combination of advanced capabilities and user-friendly interface. Here are some key features and aspects of PowerDirector:"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Repairing Systen Unit",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Document Filing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "System Unit Assembling",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Sony ",
+      "author_designation": "Vegas Pro"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "CapCut",
+      "author_designation": "CapCut"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Adobe",
+      "author_designation": "Premier Pro"
+    }
+  ]
+}
